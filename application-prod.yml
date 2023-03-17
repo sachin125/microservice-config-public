@@ -1,8 +1,4 @@
 
-
-spring:
-  application:
-    name: AC-CONFIG-PROD
     
 eureka:
   instance:
