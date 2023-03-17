@@ -1,8 +1,4 @@
 
-spring:
-  application:
-    name: AC-CONFIG-DEFAULT
-    
 eureka:
   instance:
     prefer-ip-address: true
