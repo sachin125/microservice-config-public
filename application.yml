@@ -8,14 +8,3 @@ eureka:
     service-url:
       defaultZone: http://localhost:9090/eureka
 
-
-
-logging:
-  file:
-    path: /home/ulin/aclogs/
-    name: /home/ulin/aclogs/acorder.log
-    
-  level:
-    '[com.vo]': debug
-    '[org.springframework]': debug
-    '[org.hibernate]': debug  
