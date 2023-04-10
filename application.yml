@@ -12,8 +12,8 @@ eureka:
 
 logging:
   file:
-    path: /home/ulin/ac/
-    name: /home/ulin/ac/acorder.log
+    path: /home/ulin/aclogs/
+    name: /home/ulin/aclogs/acorder.log
     
   level:
     '[com.vo]': debug
